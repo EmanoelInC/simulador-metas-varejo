@@ -14,3 +14,8 @@ A definição manual de metas comerciais frequentemente ignora sazonalidades loc
 1. **Leitura Estatística**: Coleta da média móvel de faturamento dos últimos 3 meses.
 2. **Modelagem Financeira**: Aplicação automática do teto de Markup e trava de margem em **34.8%**.
 3. **Racional de Rateio**: Divisão proporcional e meritocrática da meta para a força de vendas na ponta.
+
+## 🔒 Governança de Dados e Mascaramento
+Por motivos de conformidade, confidencialidade e segurança da informação, as bases de dados reais utilizadas originalmente no ambiente corporativo foram omitidas deste repositório público. 
+
+O script `simulador.py` possui uma camada interna que gera dados simulados perfeitamente aderentes às regras de negócio originais. Isso garante a reprodutibilidade do código e demonstra a lógica aplicada sem expor dados sensíveis.
